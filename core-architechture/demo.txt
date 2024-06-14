@@ -1,0 +1,1 @@
+This is a demo text file in which I am writing data directly from a node js file.
